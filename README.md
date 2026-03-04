@@ -1,5 +1,6 @@
 # sfs-ame
-Code for Enhancing Deepfake Detection Generalization through Spatial-Frequency Synergy and Adaptive Mixture-of-Experts.The paper is currently being submitted, and we will publish the detailed structure after submission.
+Code for Enhancing Deepfake Detection Generalization through Spatial-Frequency Synergy and Adaptive Mixture-of-Experts.The paper is currently being submitted, and we will publish the detailed structure after submission.This code is directly related to the manuscript currently submitted to The Visual Computer.
+If you use this repository or find it helpful, please cite the corresponding paper once it becomes available.
 # Project Name  
 Enhancing Deepfake Detection Generalization through Spatial-Frequency Synergy and Adaptive Mixture-of-Experts.
 # Introduction
