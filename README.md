@@ -1,7 +1,7 @@
 # sfs-ame
-Code for Enhancing Deepfake Detection Generalization through Spatial-Frequency Synergy and Adaptive Mixture-of-Experts
+Code for Enhancing Deepfake Detection Generalization through Spatial-Frequency Synergy and Adaptive Mixture-of-Experts.The paper is currently being submitted, and we will publish the detailed structure after submission.
 # Project Name  
-Enhancing Deepfake Detection Generalization through Spatial-Frequency Synergy and Adaptive Mixture-of-Experts
+Enhancing Deepfake Detection Generalization through Spatial-Frequency Synergy and Adaptive Mixture-of-Experts.
 # Introduction
 We propose a novel detection framework that integrates Discrete Wavelet Transform (DWT) and Vision Transformer (ViT) to extract discriminative frequency-domain and spatial-domain features, thereby significantly improving the performance of facial tampering detection.
 # Installation
